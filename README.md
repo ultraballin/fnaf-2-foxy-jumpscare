@@ -1,2 +1,2 @@
 # fnaf-2-foxy-jumpscare
-funny
+files for equicord jumpscare plugin
